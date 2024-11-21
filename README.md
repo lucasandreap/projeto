@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Essa página Web é dedicada a vendas ecommerce de variados produtos e serviços.
+Essa página Web é dedicada ao e-commerce.
 
 ## 🔖 Layout
 
